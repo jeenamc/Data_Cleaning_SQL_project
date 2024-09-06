@@ -1,7 +1,7 @@
 -- Data Cleaning --
 -- Steps for Data Cleaning and standarization
 /*  1. Remove Duplicates
-	2. Standardize the data 
+    2. Standardize the data 
     3. Dealing with Null values
     4. Remove Columns that are not required
 */
